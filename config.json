@@ -1,0 +1,10 @@
+{
+  "browsertime": {
+    "iterations": 3,
+    "browser": "chrome"
+  },
+  "graphite": {
+    "host": "graphite"
+  },
+  "mobile": false
+}
